@@ -235,7 +235,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F51175AF2434DED60061072E /* Build configuration list for PBXProject "imageSegmentationML" */;
+			buildConfigurationList = F51175AF2434DED60061072E /* Build configuration list for PBXProject "ImageSegmentationML" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -459,13 +459,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Q98J247HTL;
+				DEVELOPMENT_TEAM = 7JZPFNJDQR;
 				INFOPLIST_FILE = imageSegmentationML/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.exploringswift.imageSegmentationML;
+				PRODUCT_BUNDLE_IDENTIFIER = ai.sonora.imageSegmentationML;
 				PRODUCT_NAME = ImageSegmentationML;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -477,13 +477,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Q98J247HTL;
+				DEVELOPMENT_TEAM = 7JZPFNJDQR;
 				INFOPLIST_FILE = imageSegmentationML/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.exploringswift.imageSegmentationML;
+				PRODUCT_BUNDLE_IDENTIFIER = ai.sonora.imageSegmentationML;
 				PRODUCT_NAME = ImageSegmentationML;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -577,7 +577,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F51175AF2434DED60061072E /* Build configuration list for PBXProject "imageSegmentationML" */ = {
+		F51175AF2434DED60061072E /* Build configuration list for PBXProject "ImageSegmentationML" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F51175DC2434DED80061072E /* Debug */,
