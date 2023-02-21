@@ -42,7 +42,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         return btn
     }()
     let imagePickerController = UIImagePickerController()
-    var imageSegmentationModel = DeepLabV3()
+    var imageSegmentationModel = yolov8s_seg()
     
     var request :  VNCoreMLRequest?
     

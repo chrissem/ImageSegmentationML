@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B028A8829A3BF6200C11D40 /* yolov8s-seg.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9B028A8729A3BF6200C11D40 /* yolov8s-seg.mlmodel */; };
 		F51175B82434DED60061072E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51175B72434DED60061072E /* AppDelegate.swift */; };
 		F51175BA2434DED60061072E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51175B92434DED60061072E /* SceneDelegate.swift */; };
 		F51175BC2434DED60061072E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51175BB2434DED60061072E /* ViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B028A8729A3BF6200C11D40 /* yolov8s-seg.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "yolov8s-seg.mlmodel"; sourceTree = "<group>"; };
 		F51175B42434DED60061072E /* ImageSegmentationML.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageSegmentationML.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F51175B72434DED60061072E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F51175B92434DED60061072E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 		F51175E72434E0450061072E /* CoreML */ = {
 			isa = PBXGroup;
 			children = (
+				9B028A8729A3BF6200C11D40 /* yolov8s-seg.mlmodel */,
 				F51175E82434E04F0061072E /* DeepLabV3.mlmodel */,
 				F51175EA2434E0550061072E /* DeepLabV3FP16.mlmodel */,
 				F51175EC2434E05B0061072E /* DeepLabV3Int8LUT.mlmodel */,
@@ -290,6 +293,7 @@
 				F51175B82434DED60061072E /* AppDelegate.swift in Sources */,
 				F51175ED2434E05B0061072E /* DeepLabV3Int8LUT.mlmodel in Sources */,
 				F51175BA2434DED60061072E /* SceneDelegate.swift in Sources */,
+				9B028A8829A3BF6200C11D40 /* yolov8s-seg.mlmodel in Sources */,
 				F51175EB2434E0550061072E /* DeepLabV3FP16.mlmodel in Sources */,
 				F51175F22434E2990061072E /* DrawingSegmentationView.swift in Sources */,
 				F51175E92434E04F0061072E /* DeepLabV3.mlmodel in Sources */,
